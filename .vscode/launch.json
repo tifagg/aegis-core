@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Streamlit App",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit.cli",
+            "args": [
+                "run",
+                "Frontend/app.py"
+            ],
+            "jinja": true,
+            "justMyCode": true,
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Run Main.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

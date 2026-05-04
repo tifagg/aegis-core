@@ -1,0 +1,27 @@
+Tifa: Hi
+M8: Hello! How can I help you today?
+Tifa: How are you?
+M8: I’m doing well, thanks! How can I assist you?
+Tifa: C:\Users\18080314208-1\AppData\Local\Programs\Python\Python313\python.exe c:/Users/18080314208-1/Desktop/Atifa/M8/Backend/Chatbot.py
+M8: It looks like you’re trying to run `Chatbot.py` with Python 3.13. Do you need help executing the script, troubleshooting an error, or something else? Let me know what you’re trying to achieve.
+Tifa: There are no errors in it right?
+M8: I can’t tell whether the script contains any issues without seeing its contents. Could you paste the `Chatbot.py` code here (or the part you’re unsure about)? Then I can quickly run a syntax check and point out any problems.
+Tifa: C:\Users\18080314208-1\AppData\Local\Programs\Python\Python313\python.exe c:/Users/18080314208-1/Desktop/Atifa/M8/Backend/Automation.py
+M8: I can’t determine whether the script has issues without seeing its contents. Please paste the `Automation.py` code (or the sections you’re unsure about), and I’ll check it for syntax or runtime problems.
+Tifa: C:\Users\18080314208-1\AppData\Local\Programs\Python\Python313\python.exe c:/Users/18080314208-1/Desktop/Atifa/M8/Backend/ImageGeneration.py
+M8: I can’t tell whether the script contains any issues without seeing its source. Please paste the contents of **ImageGeneration.py** (or the specific sections you’re unsure about), and I’ll run a quick syntax check and point out any problems. If you’d rather run a basic check yourself, you can use:
+
+```bash
+python -m py_compile ImageGeneration.py   # syntax‑only check
+python ImageGeneration.py                 # run it and see any runtime errors
+```
+
+Just share the code, and I’ll review it for you.
+Tifa: No, it is fine. I was just checking it out. It works-thanks for the approach though!
+M8: Glad to hear it’s working! Let me know if you need any further assistance.
+Tifa: C:\Users\18080314208-1\AppData\Local\Programs\Python\Python313\python.exe c:/Users/18080314208-1/Desktop/Atifa/M8/Backend/SpeechToText.py
+M8: I can’t verify the script without seeing its source. Could you paste the contents of **SpeechToText.py** (or the parts you’re unsure about)? Then I’ll quickly check it for syntax or runtime issues.
+Tifa: Hello.
+M8: Hello! How can I assist you today?
+Tifa: Hey
+M8: Hey! What can I help you with today?

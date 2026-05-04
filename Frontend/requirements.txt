@@ -1,0 +1,16 @@
+# M8 AI Assistant - Streamlit Frontend Requirements
+# Install with: pip install -r Frontend/requirements.txt
+
+# Core Framework
+streamlit==1.28.1
+
+# Backend Integration
+groq>=0.3.0
+python-dotenv>=1.0.0
+
+# Optional: Voice Integration (uncomment to enable)
+# speech_recognition>=3.10.0
+# pyaudio>=0.2.13  # May require system-level audio libraries
+
+# Optional: Enhanced UI
+# streamlit-lottie>=0.0.5  # For advanced animations
